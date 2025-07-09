@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%91;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+Docker+%7C+AWS;Lifelong+Learner+and+Builder+of+Cool+Things" alt="Typing SVG" />
 </p>
 
+<br />
+
 ---
 
 ### 🧠 About Me
@@ -13,6 +15,10 @@
 - 🔐 Focused on **ethical hacking**, **cloud security**, and automation  
 - 🧰 Building with Python, JavaScript, and C++  
 - ☁️ Learning to secure cloud-native applications with **AWS & Docker**
+- 💡 Passionate about understanding how systems work and how to protect them
+- 🌱 Always exploring new security tools and techniques
+
+<br />
 
 ---
 
@@ -22,10 +28,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
 </p>
+
+<br />
 
 ---
 
@@ -33,9 +45,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brandonallshouse&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br />
+</p>
+
+<br />
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonallshouse&theme=dark" alt="GitHub Streak" />
 </p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonallshouse&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<br />
 
 ---
 
@@ -47,8 +71,10 @@
   </a>
 </p>
 
+<br />
+
 ---
 
 <p align="center">
-  🚀 <strong>“Stay curious. Stay secure.”</strong> 🔐
+  🚀 <strong>Always open to discussing cybersecurity, collaborating on projects, or connecting with fellow security enthusiasts!</strong> 🔐
 </p>
