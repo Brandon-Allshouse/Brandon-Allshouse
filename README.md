@@ -44,4 +44,13 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/brandon-allsh
+  <a href="https://www.linkedin.com/in/brandon-allshouse-37776a274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 “Stay curious. Stay secure.” 🔐
+</p>
