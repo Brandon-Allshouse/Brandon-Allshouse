@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%94%91;Python+%7C+JavaScript+%7C+C%2B%2B+%7C+Docker+%7C+AWS;Lifelong+Learner+and+Builder+of+Cool+Things" alt="Typing SVG" />
 </p>
 
-<br />
-
 ---
 
 ### 🧠 About Me
