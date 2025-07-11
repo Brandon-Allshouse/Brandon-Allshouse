@@ -42,19 +42,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonallshouse&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandon-Allshouse&show_icons=true&theme=github_dark&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
-<br />
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonallshouse&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon-Allshouse&theme=dark&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
-<br />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonallshouse&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Allshouse&layout=compact&theme=github_dark&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <br />
